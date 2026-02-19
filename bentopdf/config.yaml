@@ -9,6 +9,6 @@ arch:
   - amd64
 ports:
   3000/tcp: 3000
-image: ghcr.io/BVGorp/bentopdf-{arch}
+image: ghcr.io/bvgorp/bentopdf-{arch}
 # ingress: true
 # panel_icon: mdi:file-pdf-box
